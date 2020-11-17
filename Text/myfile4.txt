@@ -1,0 +1,56 @@
+tance under Running Conditions—Torque under Running Con-
+dition—Condition for Maximum Torque Under Running Con-
+ditions—Rotor Torque and Breakdown Torque—Relation be-
+tween Torque and Slip—Effect of Change in Supply Voltage on
+Torque and Speed—Effect of Change in Supply Frequency
+Torque and Speed—Full-load Torque and Maximum Torque—
+Starting Torque and Maximum Torque—Torque/Speed Curve—
+Shape of Torque/Speed Curve—Current/Speed Curve of an
+Induction Motor—T orque/Speed Characteristic Under Load—
+Plugging of an Induction Motor—induction Motor Operating
+as a Generator—Complete Torque/Speed Curve of a Three-
+phase Machine—Measurement of Slip—Power Stages in an
+Induction Motor—Torque Developed by an Induction Mo-
+tor—Torque, Mechanical Power and Rotor Output—tnduction
+Motor Torque Equation—Synchronous Watt—Variation in
+Rotor Current—Analogy with a Mechnical Clutch—Analogy
+withaD.C. Motor—Sector Induction Motor—Linear Induction
+Motor—Properties of a Linear Induction Motor—Magnetic
+Levitation—Induction Motor as a Generalized Transformer—
+Rotor Output—Equivalent Circuit of the Rotor—Equivalent
+Circuit of an Induction Motor—Power Balance Equation—
+Maximum Power Output—Corresponding Slip.
+
+35. Computation And Circle Diagrams ..-1313—1366
+
+General—Circle Diagram for a Series Circult—Circle Diagram
+of the Approximate Equivalent Circle—Determination of GO
+and BO— No-load Test—Blocked Rotor Test—Construction
+of the Circle Diagram—Maximum Quantities—Starting of
+Induction Motors—Direct-Switching or Line Starting of Induc-
+tion Motors—Squirrel-cage Motors—Starting of Slip-ring
+Motors—Starter Steps—Crawling—Cogging or Magnetic Lock-
+ing —Double Saiurrel-cage Motor-—Equivalent circult—Speed
+Control of Induction Motor—Three-Phase A.C. Commutator
+Motors—Schrage Motor—Motor Enclosures—Standard type
+of Squirrel-cage Motors—Class A Motors—Class B Motors—
+Class C Motors—Class D Motors—Class E Motors—Class F
+Motors—Questions and Answer on Induction Motors.
+
+ 
+
+36. Single-Phase Motors ...367—1400
+
+Types of Single-phase Motors—Single-phase Induction Mo-
+tor—Double-field Revolving Theory—Making Single-phase
+Induction Motor Self-starting Equivalent Circuit of Single-
+phase Induction Motor—Without Core Loss—Equivalent
+Cuicuit—With Core Loss—Types of Capacitors—Start Mo-
+tors—Capacitor Start-and-Run Motor—Shaded-pole Single-
+phase Motor—Repulsion Type Motors—Repulsion Motor—
+Repulsion Principle—Compensated Repulsion Motor—Re-
+
+ 
+
+(xii)
+ 

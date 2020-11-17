@@ -1,0 +1,56 @@
+pulsion-start Induction-run Motor— Repulsion Induction
+Motor—A.C. Series Motors—Universal Motor—Speed Con-
+trol of Universal Motors—Unexcited Single-phase Synchro-
+nous Motors—Reluctance Motor—Hysteresis Motor—Ques-
+tions and Answers on Single-phase Motors.
+
+37. Alternators ...401—1488
+
+Basic Principle—Stationary Armature—Details of Construc-
+tion—Rotor—Damper Windings—Speed and Frequency—
+Armature Windings—Concentric or Chain Windings—Two-
+layer Winding—Wye and Delta Connections—Short-pitch
+Winding; pitch factor/chording factor—Distribution or Breadth
+Factor or Winding Factor or Spread Factor—-Equation of
+Induced E.M.F.—Effect of Hormonics on Pitch and Distribu-
+tion Factors—Factors Affecting Alternator Size—Alternator
+on Load—Synchronous Reactance—Vector Diagrams of Loaded
+Alternator—Voltage Regulation—Determination of Voltage
+Regulation—Synchronous Impedence Method—Rothert’s
+M.M-F. or Ampere-turn Method—General Case-—Zero Power
+Factor Method or Potier Method—Procedural Steps of Potier
+Method—Operation of Salient Pole Synchronous Machine—
+Phasor Diagram for a Salient Pole Synchronous Machine—
+Calculations from Phasor Diagram—Power Developed by a
+Synchonous Generator—parallel Operation of Alternators—
+Synchronizing of Alternators—Synchronizing Current—Syn-
+chronizing Power—Alternators Connected to Infinite Bus-
+bars—Synchronizing Torque Tsy—Effect of Load on Synchro-
+nizing Power—Alternative Expression for Synchronizing
+Power—Parallel Operation of two Alternators—Effect of Un-
+equal Voltages—Distribution of Load—Time-Period of Oscil-
+lation—Maximum Power Output—Questions and Answers on
+Alternators.
+
+ 
+
+38. Synchronous Motor --489—1534
+
+Synchronous Motor-General—Principle of Operation—Method '
+of Starting —Motor on Load with Constant Excitation—Power
+Flow within a Synchronous Motor—Equivalent Circuit of a
+Synchronous Motor—Power Developed by a Synchronous
+Motor—Synchronous Motor with Different Excitations—
+Effect of increased Load with Constant Excitation—Effect of
+Changing Excitation of Constant Load—Different Torques of a
+Synchronous Motor—Power Developed by a Synchronous
+Motor—Alternative Expression for Power Developed—Vari-
+ous Conditions of Maxima—Salient Pole Synchronous Mo-
+tor—Power Developed by a Salient Pole Synchronous Motor
+— Effects of Excitation on Armature Current and Power
+Factor—Constant-Power Lines—Construction of V-curves—
+
+ 
+
+(xiii)
+ 

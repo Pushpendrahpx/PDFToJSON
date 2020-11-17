@@ -1,0 +1,58 @@
+28. Generator Characteristics ... 967 —9I94
+
+Characteristics of D.C. Generators—Separately-excited Gen-
+erator—No-load Curve for Self-excited Generator—How to
+find Critical Resistance R? How to draw O.C.C. at Different
+Speeds ?—Critical Speed—Voltage Build up of a Shunt Gen-
+erator—Condition for Build-up of a Shunt Generator—Other
+factors Affecting Voltage Building of a D.C. Generator—
+External Characteristic—Voltage Regulation—tinternal or To-
+tal Characteristic—Series Generator—Compound-wound Gen-
+crator—How to calculate Required Series Turns?—Uses of
+D.C. Generators Questions and Answers on D.C. Generators.
+
+29. D.C. Motor
+
+Motor Principle—Comparison of Generator and Motor Ac-
+tion—Significance of the Back emf—Voltage Equation of a
+Motor—Conditions for Maximum Power—Torque—Arma-
+ture Torque of a Motor—Shaft Torque—Speed of a D.C.
+Motor—Speed RegulationTorque and Speed of a D.C. Mo-
+tor—Motor Characteristics—Characteristics of Series Mo-
+tors—Characteristics of Shunt Motors—Compound Motors—
+Performance Curves—Comparison of Shunt and Series Mo-
+tors—Losses and Efficiency—Power Stages.
+
+ 
+
+30. Speed Control of D.C. Motors .«.1031—1090
+
+Factors Controlling Motor Speed—Speed Control of Shunt
+Motors—Speed Control of Series Motors—Merits and Demer-
+its of Rheostatic Control Method—Series-Parallel Control—
+Electric Braking —Electric Braking of Shunt Motor—Electric
+Braking of Series Motors—Electronic Speed control Method
+for D.C. Motors—Uncontrolled Rectifiers—Controlled Recti-
+fiers—Thyristor Choppers—Thyristor Inverters—Thyristor
+Speed Control of Separately-excited D.C. Motor—Thyristor
+Speed Control of D.C. Seres Motor—Full-wave Speed Control
+of a Shunt Motor—Thyristor Control of a Shunt Motor—
+Thyristor Speed Control of a Series D.C. Motor—Necessity of
+a Starter-—Shunt Motor Starter—Three-point Starter-—Four-
+point Starter—Starting and Speed Control of Series Motors—
+Grading of Starting Resistance—Shunt Motors—Series Motor
+Starters—Thyristor Controller Starters.
+
+ 
+
+31. Testing of D.C. Machines ..1091—I114
+
+Brake Test—Swinburnes Test-—Advantages of Swinburnes
+Test—Main Disadvantages—Regenerative or Hopkinson’s
+Test—Alternative Connections for Hopkinson’s Test—Merits
+of Hopkinson’s Test—Retardation or Running Down Test—
+
+(x)
+
+ 
+ 

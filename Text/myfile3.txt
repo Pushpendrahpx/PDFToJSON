@@ -1,0 +1,56 @@
+Field's Test for Series Motors—Objective Tests—Questions
+and Answers on D.C. Motors.
+
+32. Transformer... --HS—1210
+
+Working Principle of Transformer—Transformer Construc-
+tion—Core-type Transformers—Shell type Transformers—
+Elementary Theory of an Ideal Transformer—E.M.F. Equation
+of Transformer—Voltage Transformation Ratio—Transformer
+with losses but no Magnetic Leakage—Transformer on No-
+lead—Transformer on Load—Transformer with Winding Re-
+sistance but no Magnetic Leakage—Equivalent Resistance—
+Magnetic Leakage—Transformer with Resistance and Leakage
+Reactance—Simplified Diagram—Total Approximate Voltage
+Drop In Transformer—Exact Voltage Drop—Equivalent Cir-
+cuit Transformer Tests—Open-circuit or No-load Test—Sepa-
+ration of Core Losses—Short-Circuit or Impedence Test—
+Why Transformer Rating in KVA?—Regulation of a Trans-
+former—Percentage Resistance. Reactance and Impedance—
+Kapp Regulation Diagram—Sumpner or Back-to-back-Test—
+Efficiency of a Transformer—Condition for Maximum Effi-
+ciency—Variation of Efficiency with Power Factor—All-day
+Efficiency—Auto-transformer—Conversion of 2-Winding
+Transformer into Auto-transformer—Parallel Operation of
+Single-phase Transformers—Questions and Answers on Trans-
+formers.
+
+ 
+
+-§ Transformer :Three Phase --- [211242
+
+Three-phase Transformers—Three-phase Transformer Con-
+nections—Star/Star or Y/Y Connection—Delta-Delta or Con-
+nectlon—Wye/Delta or Y/ Connection—Delta/Wye or /Y Con-
+nection—Open-Delta or V-V Connection—Power Supplied by
+V-V Bank—Scott Connection or T-T Connection—Three-
+phase to Two-Phase Conversion and vice-versa—Parallel Op-
+eration of 3-phase Transformers—instrument Transformers—
+Current Transformers—Potential Transformers.
+
+34, Induction Motor
+
+Classification of AC Motors—Iinduction Motor: General Prin-
+cipal—Construction—Squirrel-cage Rotor—Phase-wound
+Rotor—Production of Rotating Field—Three-phase Supply—
+Mathematical Proof—Why does the Rotor Rotate ?—Slip—
+Frequency of Rotor Current—Relation between Torque and
+Rotor Power Factor—Stariing Toraue—Starting Torque of a
+Squirrel-cage Motor—Starting Torque of a Slip-ring Motor—
+Condition for Maximum Starting Torque—Effect of Change in
+Supply Voltage on Starting Torque—Rotor E.M.F and Reac-
+
+ 
+
+(xi)
+ 

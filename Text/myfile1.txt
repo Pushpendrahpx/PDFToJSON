@@ -1,0 +1,54 @@
+CONTENTS \\
+
+ 
+
+25. Elements of Electro-mechanical Energy Conversion ---665—886
+
+Introduction—Salient aspects of conversions—Energy-bal-
+ance—Magnetic-field system: Energy and Co-energy—Linear
+System—A Simple Electromechanical System—in terms of
+Field Energy—In terms of field Co-energy—Energy in terms of
+Electrical parameters—Rotary Motion—Description of Simple
+System—Energy stored in the coils—Different Categories—
+One coil each on Stator and on Rotor—Vital Role of Air-gap—
+Statically induced emf and Dynamically induced emf.
+
+ 
+
+26. D.C, Generators... ...887—936
+
+Generator Principal—Simple Loop Generator—Practical Gen-
+erator-—Yoke — Pole Cores and Pole Shoes—Pole Coils—
+Armature Core—Armature Windings—Bushes and Bearings—
+Pole-pitch—Conductor-Coil and Winding Element—Coil-span
+or Coil-pitch—Pitch of a Winding —Back Pitch—Front Pitch—
+Resultant Pitch— Commutator Pitch—Single-layer Winding —
+Two-layer Winding—Degree of Re-entrancy of an Armature
+Winding—Multiplex Winding —Lap and Wave Winding —Sim-
+plex-lap Winding—Numbering of Coils and Commutator Seg-
+ments—Simplex Wave Winding—Dummy or Idle Coils—Uses
+of Lap and Wave Windings—Types of Generators—Brush
+Contact Drop—Generated E.M-F. or E.M.F_ Equation of a
+Generator—tron Loss in Armature—Total loss in a D.C,
+Generator—Stray Losses—Constant or Standing Losses—
+Power Stages—Condition for Maximum Efficiency.
+
+ 
+
+27. » Armature Reaction and Commutation ... 37—966
+
+Armature Reaction—Demagnetising and Cross-magnetising
+Conductors—Demagnetising AT per Pole—Crossmagnetising
+AT per pole-—Compensating Windings—No. of Compensat-
+ing Windings—Commutation—Value of Reactance Voltage—
+Methods of Improving Commutation—Resistance Commuta-
+tion—E.M.F. Commutation—Interpoles or Compoles—
+Equalising Connections—Parallel Operation of Shunt Genera-
+tors—Paralleling D.C. Generator—Load Sharing—Procedure
+for Paralleling D.C. Generators— Compound Generators in
+Parallel-—Series Generators in Parallel.
+
+ 
+
+(ix)
+ 

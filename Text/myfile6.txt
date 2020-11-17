@@ -1,0 +1,27 @@
+Hunting or Surging or Phase Swinging —Methods of Starting —
+Procedure for Starting a Synchronous Motor-
+
+between Synchronous and Induction Motors—Synchronous
+Motor Applications—Questions and Answers on synchronous
+Motors.
+
+39. special Machines .-IS35—1568
+
+Introduction—Stepper Motors—Types of Stepper Motors—
+Variable Reluctance Stepper Motors—Multi-stack VR Stepper
+Motor—Permanent-Magnet Stepping Motor—Hybrid Stepper
+Motor—Summary of Stepper Motors—Permanent-Magnet DC
+Motor—Low-inertia DC Motors—Shell-type Low-intertia DC
+Motor—Printed-circult (Disc) DC Motor—Permanent-Mag-
+net Synchronous Motors—Synchros—Types of Synchros—
+Applications of Synchros—Control Differential Transmitter—
+Control Differential Receiver—Switched Reluctance Motor—
+Comparison between VR Stepper Motor and SR Motor—The
+Resolver—Servomotors—DC Servomotors—AC Servomotors.
+
+Index
+
+ 
+
+(xiv)
+ 
